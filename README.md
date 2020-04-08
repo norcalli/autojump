@@ -17,7 +17,7 @@ Go ahead and grab autojump. Ignore the part about sourcing the `.fish` file they
 With [fisherman]
 
 ```
-fisher autojump
+fisher add norcalli/autojump
 ```
 
 ## Usage
